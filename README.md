@@ -27,7 +27,8 @@ g. Movie tags values
 h. List of results
 
 ## Data statistics
-The dataset includes 10 types of data objects: movies, movie_genres, movie_directors, movie_actors, movie_countries, movie_locations, tags, movie_tags, user_taggedmovies, and user_ratedmovies.
+The dataset includes 10 types of data objects: movies, movie_genres, movie_directors, movie_actors, movie_countries, movie_locations, tags, movie_tags, user_taggedmovies, and user_ratedmovies
+
 2113 users
 10197 movies
 20 movie genres
