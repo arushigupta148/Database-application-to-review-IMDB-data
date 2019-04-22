@@ -11,12 +11,19 @@ main.java: The file establishes connectivity with the DBMS, executes SQL queries
 
 ## The GUI displays:
 a. List of movie genres
-b. Countries where the movies are produced.
+
+b. Countries where the movies are produced
+
 c. Filming location country where movies are filmed
+
 d. Critic’s rating which is Rotten Tomato all critics rating
+
 e. No. of Reviews, which is the Rotten Tomatoes all critics' number of reviews
-f. Movie year.
+
+f. Movie year
+
 g. Movie tags values
+
 h. List of results
 
 ## Data statistics
