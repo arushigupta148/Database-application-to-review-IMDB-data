@@ -29,15 +29,26 @@ h. List of results
 ## Data statistics
 The dataset includes 10 types of data objects: movies, movie_genres, movie_directors, movie_actors, movie_countries, movie_locations, tags, movie_tags, user_taggedmovies, and user_ratedmovies
 
-###### 2113 users
-###### 10197 movies
+2113 users
+
+10197 movies
+
 20 movie genres
+
 20809 movie genre assignments
+
 4060 directors
+
 95321 actors
+
 72 countries
+
 10197 country assignments
+
 47899 location assignments
+
 13222 tags
+
 47957 tag assignments
+
 855598 ratings
