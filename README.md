@@ -1,13 +1,16 @@
 # Database-application-to-review-IMDB-data
 Created an application containing dynamic components which were updated continuously as users made choices, allowing them to modify results interactively
 
-populate.java: The file has INSERT statements for tables to insert data into the Database.
-createdb.sql: The file creates all required tables and includes constraints, indexes, and other DDL statements.
-dropdb.sql: The file drops all tables and other objects created by createdb.sql file.
-main.java: The file establishes connectivity with the DBMS, executes SQL queries to search the database, retrieves query results and parses the returned results to generate the output on the GUI.
+populate.java: The file has INSERT statements for tables to insert data into the Database
+
+createdb.sql: The file creates all required tables and includes constraints, indexes, and other DDL statements
+
+dropdb.sql: The file drops all tables and other objects created by createdb.sql file
+
+main.java: The file establishes connectivity with the DBMS, executes SQL queries to search the database, retrieves query results and parses the returned results to generate the output on the GUI
 
 ## The GUI displays:
-a. List of movie genres.
+a. List of movie genres
 b. Countries where the movies are produced.
 c. Filming location country where movies are filmed
 d. Critic’s rating which is Rotten Tomato all critics rating
